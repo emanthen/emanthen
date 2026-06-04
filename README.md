@@ -28,7 +28,7 @@ I enjoy building real-world SaaS platforms and solving deployment/scaling proble
 ---
 
 ## 🛠 Tech Stack
-**Backend:** Node.js / Python / Django / FastAPI  
+**Backend:** Node.js / Python / Django / FastAPI / laravel
 **Cloud:** AWS (ECS, EC2, RDS, S3, SES, ALB)  
 **DevOps:** Docker, GitHub Actions, Linux, Nginx  
 **Database:** PostgreSQL, MySQL  
@@ -47,7 +47,7 @@ I enjoy building real-world SaaS platforms and solving deployment/scaling proble
 ---
 
 ## 🎯 Goals 2026
-- Launch 1 production SaaS product
+- Launch 100+ production SaaS product
 - Master AWS architecture at scale
 - Build DevOps automation portfolio
 - Work on real startup-level systems
